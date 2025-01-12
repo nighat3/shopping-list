@@ -1,4 +1,3 @@
 - Eggs
 - Chocolate
 - Milk
-- Hot Cheetos
